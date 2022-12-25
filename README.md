@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jhee1
-- 👀 I’m interested in A.I, music, physics, math, programming, economics and Asian culture
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in A.I, music, programming, economics and Asian culture
+- 🌱 I’m currently learning Python and Cybersecurity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me los.sebastian99@gmail.com
 
